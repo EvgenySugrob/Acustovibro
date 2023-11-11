@@ -1,0 +1,74 @@
+{
+    "name": "Sugrob_PlacingObject_Inputs",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "9a8009d3-421a-43a3-a51a-6a6fdbe58271",
+            "actions": [
+                {
+                    "name": "DoneClick",
+                    "type": "Button",
+                    "id": "b737a4db-3328-497f-842a-c101ae4672dd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CancelClick",
+                    "type": "Button",
+                    "id": "7dfb0903-90c2-42d4-992b-7623e06d0a05",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RotationObject",
+                    "type": "PassThrough",
+                    "id": "b332d4c7-9a4a-4c73-b4bc-ad2ea4973b97",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bbfd69ae-364e-44ed-9309-d0d922870349",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DoneClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c171c361-4324-4893-a253-5c1cc1a120c2",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CancelClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8fdfc235-0caa-4c14-a550-3d64f027f544",
+                    "path": "<Mouse>/scroll/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotationObject",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
