@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d7d38389054cc714a8d194ea914415c1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_lens_1
+    100002: Back_lens_2
+    100004: Back_lens_3
+    100006: Back_lens_4
+    100008: Bottom_elements
+    100010: Emblem_1
+    100012: Emblem_2
+    100014: Front_lens
+    100016: Front_lens1
+    100018: Green_lampas
+    100020: Koleso_1
+    100022: Koleso_2
+    100024: Korpus_elements_1
+    100026: Korpus_elements_2
+    100028: Main_korpus
+    100030: //RootNode
+    100032: Red_lampas
+    100034: Rotate_elements_1
+    100036: Rotate_elements_2
+    100038: Select_button1
+    100040: Texture_elements
+    400000: Back_lens_1
+    400002: Back_lens_2
+    400004: Back_lens_3
+    400006: Back_lens_4
+    400008: Bottom_elements
+    400010: Emblem_1
+    400012: Emblem_2
+    400014: Front_lens
+    400016: Front_lens1
+    400018: Green_lampas
+    400020: Koleso_1
+    400022: Koleso_2
+    400024: Korpus_elements_1
+    400026: Korpus_elements_2
+    400028: Main_korpus
+    400030: //RootNode
+    400032: Red_lampas
+    400034: Rotate_elements_1
+    400036: Rotate_elements_2
+    400038: Select_button1
+    400040: Texture_elements
+    2100000: Plastic_okulyary
+    2100002: lambert1
+    2100004: Select_button
+    2100006: Battary
+    2100008: bottom_for_emblem
+    2100010: prozrachnay_for_emblem
+    2100012: Korpus_main_color
+    2100014: Metalic_for_tile_texture
+    2100016: Red_CNG_lampa
+    2100018: Mednay
+    2100020: dark_plastic_port_mini
+    2100022: Metalic
+    2100024: Black_plastic_bottom
+    2100026: Bolts
+    2100028: Vstavki_color_rezina
+    2300000: Back_lens_1
+    2300002: Back_lens_2
+    2300004: Back_lens_3
+    2300006: Back_lens_4
+    2300008: Bottom_elements
+    2300010: Emblem_1
+    2300012: Emblem_2
+    2300014: Front_lens
+    2300016: Front_lens1
+    2300018: Green_lampas
+    2300020: Koleso_1
+    2300022: Koleso_2
+    2300024: Korpus_elements_1
+    2300026: Korpus_elements_2
+    2300028: Main_korpus
+    2300030: Red_lampas
+    2300032: Select_button1
+    2300034: Texture_elements
+    3300000: Back_lens_1
+    3300002: Back_lens_2
+    3300004: Back_lens_3
+    3300006: Back_lens_4
+    3300008: Bottom_elements
+    3300010: Emblem_1
+    3300012: Emblem_2
+    3300014: Front_lens
+    3300016: Front_lens1
+    3300018: Green_lampas
+    3300020: Koleso_1
+    3300022: Koleso_2
+    3300024: Korpus_elements_1
+    3300026: Korpus_elements_2
+    3300028: Main_korpus
+    3300030: Red_lampas
+    3300032: Select_button1
+    3300034: Texture_elements
+    4300000: Koleso_1
+    4300002: Red_lampas
+    4300004: Green_lampas
+    4300006: Select_button1
+    4300008: Main_korpus
+    4300010: Texture_elements
+    4300012: Front_lens1
+    4300014: Front_lens
+    4300016: Bottom_elements
+    4300018: Korpus_elements_1
+    4300020: Emblem_1
+    4300022: Back_lens_1
+    4300024: Back_lens_3
+    4300026: Korpus_elements_2
+    4300028: Emblem_2
+    4300030: Koleso_2
+    4300032: Back_lens_2
+    4300034: Back_lens_4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

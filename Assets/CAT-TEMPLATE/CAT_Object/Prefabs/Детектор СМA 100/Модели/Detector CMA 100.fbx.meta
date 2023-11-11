@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 1cdecf410255ee3438ef79193c8bb524
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Button_1
+    100002: Button_2
+    100004: Ciferblat_panel
+    100006: //RootNode
+    100008: Glass_for_ciferblat
+    100010: Lampa_1
+    100012: Lampa_2
+    100014: Lampa_3
+    100016: Main_korpus
+    100018: Switcher_1
+    100020: Switcher_2
+    100022: Switcher_3
+    100024: Switcher_4
+    400000: Button_1
+    400002: Button_2
+    400004: Ciferblat_panel
+    400006: //RootNode
+    400008: Glass_for_ciferblat
+    400010: Lampa_1
+    400012: Lampa_2
+    400014: Lampa_3
+    400016: Main_korpus
+    400018: Switcher_1
+    400020: Switcher_2
+    400022: Switcher_3
+    400024: Switcher_4
+    2100000: Ramka_ciferblat
+    2100002: for_3_5_jack
+    2100004: metal_elements
+    2100006: Main_panel
+    2100008: main_korpus_metal
+    2100010: mednay_elements
+    2100012: Torcevoy_plastic
+    2100014: bolts
+    2100016: Line_out
+    2100018: Clemas_connector
+    2100020: osnova_switcher
+    2100022: Black_switcher
+    2100024: white_metka
+    2100026: Ciferblat
+    2100028: Glass
+    2100030: lambert2
+    2300000: Button_1
+    2300002: Button_2
+    2300004: Ciferblat_panel
+    2300006: Glass_for_ciferblat
+    2300008: Lampa_1
+    2300010: Lampa_2
+    2300012: Lampa_3
+    2300014: Main_korpus
+    2300016: Switcher_1
+    2300018: Switcher_2
+    2300020: Switcher_3
+    2300022: Switcher_4
+    3300000: Button_1
+    3300002: Button_2
+    3300004: Ciferblat_panel
+    3300006: Glass_for_ciferblat
+    3300008: Lampa_1
+    3300010: Lampa_2
+    3300012: Lampa_3
+    3300014: Main_korpus
+    3300016: Switcher_1
+    3300018: Switcher_2
+    3300020: Switcher_3
+    3300022: Switcher_4
+    4300000: Main_korpus
+    4300002: Switcher_1
+    4300004: Switcher_2
+    4300006: Switcher_3
+    4300008: Switcher_4
+    4300010: Ciferblat_panel
+    4300012: Glass_for_ciferblat
+    4300014: Lampa_3
+    4300016: Button_2
+    4300018: Button_1
+    4300020: Lampa_2
+    4300022: Lampa_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
