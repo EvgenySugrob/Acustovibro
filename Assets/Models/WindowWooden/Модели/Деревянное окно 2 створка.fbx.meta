@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 8cf2c7588ad21044fb4dc566fa373dde
+timeCreated: 1535720856
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dverca1
+    100002: Dverca2
+    100004: Kreplenie
+    100006: Kreplenie 1
+    100008: Main_rama
+    100010: Rama
+    100012: Rama1
+    100014: Rama_okna1
+    100016: Rama_okna2
+    100018: Ruchka
+    100020: Ruchka 1
+    100022: Sharniry_nepodvisznay
+    100024: Sharniry_nepodvisznay 1
+    100026: Sharniry_podvisznay
+    100028: Sharniry_podvisznay 1
+    100030: Stecla
+    100032: Stecla 1
+    100034: Steclo_stvorki
+    100036: Steclo_stvorki 1
+    100038: Stvorka
+    100040: Stvorka 1
+    100042: Zamok_stvorki
+    100044: Zamok_stvorki 1
+    100046: //RootNode
+    400000: Dverca1
+    400002: Dverca2
+    400004: Kreplenie
+    400006: Kreplenie 1
+    400008: Main_rama
+    400010: Rama
+    400012: Rama1
+    400014: Rama_okna1
+    400016: Rama_okna2
+    400018: Ruchka
+    400020: Ruchka 1
+    400022: Sharniry_nepodvisznay
+    400024: Sharniry_nepodvisznay 1
+    400026: Sharniry_podvisznay
+    400028: Sharniry_podvisznay 1
+    400030: Stecla
+    400032: Stecla 1
+    400034: Steclo_stvorki
+    400036: Steclo_stvorki 1
+    400038: Stvorka
+    400040: Stvorka 1
+    400042: Zamok_stvorki
+    400044: Zamok_stvorki 1
+    400046: //RootNode
+    2100000: lambert2
+    2300000: Kreplenie
+    2300002: Kreplenie 1
+    2300004: Main_rama
+    2300006: Rama
+    2300008: Rama1
+    2300010: Ruchka
+    2300012: Ruchka 1
+    2300014: Sharniry_nepodvisznay
+    2300016: Sharniry_nepodvisznay 1
+    2300018: Sharniry_podvisznay
+    2300020: Sharniry_podvisznay 1
+    2300022: Stecla
+    2300024: Stecla 1
+    2300026: Steclo_stvorki
+    2300028: Steclo_stvorki 1
+    2300030: Stvorka
+    2300032: Stvorka 1
+    2300034: Zamok_stvorki
+    2300036: Zamok_stvorki 1
+    3300000: Kreplenie
+    3300002: Kreplenie 1
+    3300004: Main_rama
+    3300006: Rama
+    3300008: Rama1
+    3300010: Ruchka
+    3300012: Ruchka 1
+    3300014: Sharniry_nepodvisznay
+    3300016: Sharniry_nepodvisznay 1
+    3300018: Sharniry_podvisznay
+    3300020: Sharniry_podvisznay 1
+    3300022: Stecla
+    3300024: Stecla 1
+    3300026: Steclo_stvorki
+    3300028: Steclo_stvorki 1
+    3300030: Stvorka
+    3300032: Stvorka 1
+    3300034: Zamok_stvorki
+    3300036: Zamok_stvorki 1
+    4300000: Main_rama
+    4300002: Sharniry_nepodvisznay
+    4300004: Rama1
+    4300006: Kreplenie
+    4300008: Stecla
+    4300010: Zamok_stvorki
+    4300012: Steclo_stvorki
+    4300014: Ruchka
+    4300016: Stvorka
+    4300018: Sharniry_podvisznay
+    4300020: Kreplenie
+    4300022: Rama
+    4300024: Sharniry_nepodvisznay
+    4300026: Stecla
+    4300028: Zamok_stvorki
+    4300030: Steclo_stvorki
+    4300032: Ruchka
+    4300034: Sharniry_podvisznay
+    4300036: Stvorka
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
